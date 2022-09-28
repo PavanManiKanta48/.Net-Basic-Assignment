@@ -1,0 +1,8 @@
+C:\C# examples\FindCharacterExissstOrNot\FindCharacterExissstOrNot\bin\Debug\FindCharacterExissstOrNot.exe.config
+C:\C# examples\FindCharacterExissstOrNot\FindCharacterExissstOrNot\bin\Debug\FindCharacterExissstOrNot.exe
+C:\C# examples\FindCharacterExissstOrNot\FindCharacterExissstOrNot\bin\Debug\FindCharacterExissstOrNot.pdb
+C:\C# examples\FindCharacterExissstOrNot\FindCharacterExissstOrNot\obj\Debug\FindCharacterExissstOrNot.csproj.AssemblyReference.cache
+C:\C# examples\FindCharacterExissstOrNot\FindCharacterExissstOrNot\obj\Debug\FindCharacterExissstOrNot.csproj.SuggestedBindingRedirects.cache
+C:\C# examples\FindCharacterExissstOrNot\FindCharacterExissstOrNot\obj\Debug\FindCharacterExissstOrNot.csproj.CoreCompileInputs.cache
+C:\C# examples\FindCharacterExissstOrNot\FindCharacterExissstOrNot\obj\Debug\FindCharacterExissstOrNot.exe
+C:\C# examples\FindCharacterExissstOrNot\FindCharacterExissstOrNot\obj\Debug\FindCharacterExissstOrNot.pdb
